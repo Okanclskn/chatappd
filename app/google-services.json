@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "556292320001",
+    "firebase_url": "https://chat-digitus-48913.firebaseio.com",
+    "project_id": "chat-digitus-48913",
+    "storage_bucket": "chat-digitus-48913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556292320001:android:7c2082dd47ccfa83",
+        "android_client_info": {
+          "package_name": "com.okan.chatdigitus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556292320001-26so888and0s0ogtadmvkrbhkhetbajq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.okan.chatdigitus",
+            "certificate_hash": "c21965ef6bb53cc8a1915f7933cb61c16d3f4cd0"
+          }
+        },
+        {
+          "client_id": "556292320001-6mfcf18nqekhck7ak87qhcajmtb9q3j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQlcUrYiCcFJvoF2TjvZFqnwnfra1aPaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556292320001-6mfcf18nqekhck7ak87qhcajmtb9q3j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
